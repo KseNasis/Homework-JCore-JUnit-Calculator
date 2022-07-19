@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnitTestingCalculator" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-07-19T08:28:50" hostname="KSENASIS-ПК" time="0.05">
+  <properties/>
+  <testcase name="divide()" classname="JUnitTestingCalculator" time="0.014"/>
+  <testcase name="isPositive()" classname="JUnitTestingCalculator" time="0.001"/>
+  <testcase name="sum()" classname="JUnitTestingCalculator" time="0.001"/>
+  <testcase name="[1] 10, 5, 5" classname="JUnitTestingCalculator" time="0.012"/>
+  <testcase name="[2] 10, 15, -5" classname="JUnitTestingCalculator" time="0.001"/>
+  <testcase name="[3] 10, 0, 10" classname="JUnitTestingCalculator" time="0.001"/>
+  <testcase name="[1] 1" classname="JUnitTestingCalculator" time="0.0"/>
+  <testcase name="[2] 500" classname="JUnitTestingCalculator" time="0.0"/>
+  <testcase name="[3] -70" classname="JUnitTestingCalculator" time="0.0"/>
+  <testcase name="[4] 0" classname="JUnitTestingCalculator" time="0.0"/>
+  <system-out><![CDATA[Tests beginning
+Test started
+testing divide
+Test compiled 6106501
+Test started
+testing "isPositive"
+Test compiled 420108
+Test started
+testing sum
+Test compiled 509420
+Test started
+testing minus
+Test compiled 11466934
+Test started
+testing minus
+Test compiled 350990
+Test started
+testing minus
+Test compiled 399629
+Test started
+testing multiply
+Test compiled 253431
+Test started
+testing multiply
+Test compiled 244897
+Test started
+testing multiply
+Test compiled 221858
+Test started
+testing multiply
+Test compiled 218161
+Test finished 52076635
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
